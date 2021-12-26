@@ -1,4 +1,4 @@
-# CoiCap API to AWS Timestream Pipeline - Visualized with Grafana
+# CoinCap API to AWS Timestream Pipeline - Visualized with Grafana
 
 ## Overview, Context & Motivation
 
