@@ -13,8 +13,8 @@ if __name__ == '__main__':
 
     session = boto3.Session()
 
-    os.environ['DATABASE_NAME'] = 'final_test'
-    os.environ['TABLE_NAME'] = 'test_table'
+    os.environ['DATABASE_NAME'] = 'crypto_prices'
+    os.environ['TABLE_NAME'] = 'prices'
     os.environ['HT_TTL_HOURS'] = '48'
     os.environ['CT_TTL_DAYS'] = '730'
 
